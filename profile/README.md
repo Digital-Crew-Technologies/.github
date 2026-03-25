@@ -17,11 +17,11 @@ Our mission is to **democratize AI‑driven automation** for startups and SMEs t
 
 This organization contains:
 
-- `digitalcrew-orchestrator` – Central platform to connect multiple SaaS apps.  
-- `max-agent` – Sales Outreach Agent in multi-channel.  
-- `sophie-agent` – Recruiter Agent.
-- `kate-agent` – .
-- `claire-agent` – .
+- `digitalcrew-orchestrator` – Central platform to connect digitalcrew agents.
+- `max-agent` – AI sales outreach agent - AI-assisted multi-channel sales engagement.
+- `sophie-agent` – AI HR agent - Automate Interviews, Vet Top Talent, Streamline Hiring in Minutes.
+- `claire-agent` – AI Market Research Agent - Deep Research, Data Analysis & Winning Strategies.
+- `kate-agent` – coming soon.
 
 You can see the full list of repos at:  
 https://github.com/Digital-Crew-Technologies
@@ -31,7 +31,7 @@ https://github.com/Digital-Crew-Technologies
 ## 🤝 How to contribute
 
 1. Fork the repo you want to contribute to.  
-2. Create a feature branch: `git checkout -b feat/your-feature`.  
+2. Create a feature branch: `git checkout -b feat/your-feature`.
 3. Commit changes and push.  
 4. Open a Pull Request with a clear description of what you changed.  
 
